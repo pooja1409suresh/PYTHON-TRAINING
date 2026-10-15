@@ -68,10 +68,15 @@
 #     print()
 
 # fibonaccci series
-a=int(input())
-b=int(input())
-for i in range(10):
-    if a%2==0:
-      print(a,end=" ")
-    a,b=b,a+b
-print(a)
+# a=int(input())
+# b=int(input())
+# for i in range(10):
+#     if a%2==0:
+#       print(a,end=" ")
+#     a,b=b,a+b
+# print(a)
+
+#git status
+#git add .
+#git commit -m ""
+#git push
